@@ -1,2 +1,2 @@
 # sleek
-sleek is an institution that deal with sealing luxury wristwatches
+Landing page for Sleek: an institution that deal with sealing luxury wristwatches

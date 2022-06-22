@@ -402,13 +402,14 @@ ul li {
 /* contact */
 .wrapper.style2 {
     background: #e44c65;
+    height: 50vh;
 }
 section.special, article.special {
     text-align: center;
 }
 
 .wrapper {
-    padding: 6em 0 4em 0;
+    padding: 2em 0 1em 0;
 }
 
 .wrapper.fade > .container {
@@ -424,7 +425,7 @@ section.special, article.special {
 /* Form */
 
 form {
-    margin: 0 0 2em 0;
+    margin: 0 0 1em 0;
 }
 
 form.cta {
@@ -443,7 +444,7 @@ input[type="email"] {
     color: inherit;
     display: inline-block;
     outline: 0;
-    padding: 0 1em;
+    padding: 0 2em;
     text-decoration: none;
     width: 60%;
 }
